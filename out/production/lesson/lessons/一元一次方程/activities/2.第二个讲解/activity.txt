@@ -1,7 +1,0 @@
-{
-    "title": "第二个讲解的名字",
-    "type": "lecture",
-    "redoable": true,
-    "body": "<image src='http://www.newxue.com/images/shuxue/6/28239208180745.gif'></image>",
-    "level": "easy",
-}

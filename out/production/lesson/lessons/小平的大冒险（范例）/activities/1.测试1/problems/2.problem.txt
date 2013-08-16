@@ -1,8 +1,0 @@
-{
-    "title": "一个单填空题的名字",
-    "type": "singlefilling",
-    "body": "你的名字是?",
-    "explanation":"白痴么!",
-    "level": "easy",
-    "correct_answer":"王小贱"
-}
