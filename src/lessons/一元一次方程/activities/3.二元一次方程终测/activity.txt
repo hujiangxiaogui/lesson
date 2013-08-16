@@ -1,0 +1,10 @@
+{
+    "title": "终测试的名字",
+    "type": "quiz",
+    "isFinal", true,
+    "redoable": true,
+    "level": "normal",
+    "jump":[
+		"jump_to_activity_if_correctness_greater_than:二元一次方程终测:70"
+    ]
+}

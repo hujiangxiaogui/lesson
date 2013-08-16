@@ -1,0 +1,16 @@
+{
+    "title": "一元一次方程",
+    "keywords": ["极简", "草稿"],
+    "summary": "二元一次方程（组）及解的应用：<br>注意:方程（组）的解适合于方程，任何一个二元一次方程都有无数个解，有时考查其整数解的情况，还经常应用方程组的概念巧求代数式的值。",
+    "cover_image": "http://czsx.cooco.net.cn/jaslsxxia/2/15/bsd-kebiao/3/jasl/image010.jpg",
+    "objectives": ["了解二元一次方程的定义", "会基本的解法"],
+    "intended_audience": ["XX学校初一", "YY学校初二"],
+    "phase": ["beforeClass", "duringClass"],
+    "requirements": ["一元一次方程","fangcheng"],
+    "level": "easy",
+    "badges": [
+        "golden_lesson:>=3",
+        "silver_lesson:>70%",
+        "bronze_lesson:>50%"
+    ]
+}

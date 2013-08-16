@@ -1,0 +1,21 @@
+{
+    "title": "一个多选测试的名字",
+    "type": "multichoice",
+    "body": "根据图片选择脚毛的根数<image src="1.jpg"></image>",
+    "explanation":"根本数不过来!",
+    "level": "hard",
+    "choices": [
+	    {
+		    "body":"红色的100000根以上",
+		    "is_correct":true
+	    },
+	    {
+		    "body":"绿色的13根",
+		    "is_correct":true
+	    },
+	    {
+		    "body":"没有毛",
+		    "is_correct":false
+	    }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "title": "终测试的名字",
+    "type": "finalquiz",
+    "redoable": true,
+    "level": "normal"
+}

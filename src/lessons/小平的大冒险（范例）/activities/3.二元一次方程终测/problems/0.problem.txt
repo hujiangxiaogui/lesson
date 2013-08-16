@@ -1,0 +1,21 @@
+{
+    "title": "一个单选测试的名字",
+    "type": "singlechoice",
+    "body": "根据视频选播音员<video src='materials/test.mp4'></video>",
+    "explanation":"就选A!",
+    "level": "easy",
+    "choices": [
+	    {
+		    "body":"选项A的内容",
+		    "is_correct":true
+	    },
+	    {
+		    "body":"选项B的内容",
+		    "is_correct":false
+	    },
+	    {
+		    "body":"选项C的内容",
+		    "is_correct":false
+	    }
+    ]
+}

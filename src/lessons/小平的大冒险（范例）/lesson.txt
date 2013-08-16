@@ -1,0 +1,23 @@
+{
+        "title": "如何写代码`1+1=2`",
+        "keywords": [
+            "极简", "haha", "王老师"
+        ],
+        "summary": "小平的代码第一课：<br>注意:啥是数据结构？",
+        "cover_image": "小平无码.jpg",
+        "objectives": [
+            "写几行代码让小平跑起来", "或者学不会"
+        ],
+        "intended_audience": [
+            "1班的熊孩子", "4班的小学霸"
+        ],
+        "requirements": [
+            "java初步","小狗变飞龙"
+        ],
+        "level": "easy",
+        "badges": [
+            "golden_lesson:>=5",
+            "silver_lesson:>60%",
+            "bronze_lesson:>50%"
+        ]
+}
